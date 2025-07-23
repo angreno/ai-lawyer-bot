@@ -1,0 +1,5 @@
+DATA_DIR = r"D:\codes\02 Work\Ai lawyer\data"
+INDEX_DIR = r"D:\codes\02 Work\Ai lawyer\faiss_index"
+LLM_ENDPOINT = "http://localhost:11434/api/generate"
+EMBED_MODEL = "all-MiniLM-L6-v2"
+UPLOAD_DIR= r"D:\codes\02 Work\Ai lawyer\RAG\AI-BOT\backend\upload_data"
